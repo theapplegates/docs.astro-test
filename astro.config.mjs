@@ -10,5 +10,5 @@ export default defineConfig({
 		// Enable React for the Algolia search component.
 		react(),
 	],
-	site: `https://docs.paulapplegate.com/en/introduction`,
+	site: `https://docs.paulapplegate.com`,
 });
